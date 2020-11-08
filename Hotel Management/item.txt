@@ -1,0 +1,10 @@
+1,Coffee,1.80
+2,Soft drink,2.00
+3,Dessert,3.50
+4,Starter,4.00
+5,Main Course,8.00
+6,Main Course & Dessert,10.00
+7,Main Course & Starter,11.00
+8,Combo,13.50
+9,Biryani,153.2
+10,Mix veg,60.0
