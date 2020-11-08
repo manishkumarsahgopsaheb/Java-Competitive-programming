@@ -39,6 +39,7 @@ public class Airdriver {
 
         System.out.println(airLine.toString());
         System.out.println("Total Profit per day: $"+airLine.calcDailyProfit());
+        
 
     }
 }
